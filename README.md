@@ -57,8 +57,5 @@ This project demonstrates a Rock-Paper-Scissors game using real-time hand gestur
 - `create_image_frame(image1, image2, image3)`: Stacks three images to create a frame for display.
 - `main()`: Captures video from the webcam, processes hand gestures, updates image displays, and combines video and image frames for output.
 
-## Contributing
-Feel free to contribute by submitting issues or pull requests. Improvements and suggestions are welcome.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
